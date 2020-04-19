@@ -1,5 +1,5 @@
 # coding=utf-8
-# !/usr/bin/python
+# !/usr/bin/env python
 ###############################################################################
 # ProxyChecker 1.0.0 by @antidoxable Twitter | @antid0xable IG
 # License - GNU GENERAL PUBLIC LICENSE (GPL-3.0) 
